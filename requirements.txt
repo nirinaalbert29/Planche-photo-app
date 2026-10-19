@@ -1,0 +1,10 @@
+customtkinter>=5.2
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
+python-docx
+pytesseract
+rapidocr-onnxruntime
+tkinterdnd2

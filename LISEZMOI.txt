@@ -1,0 +1,6 @@
+Planche photos + Image vers Word
+Installation : pip install -r requirements.txt
+Lancer      : python planche_photos_gui.py
+Le dossier fonts/ (Roboto Mono) doit rester a cote des scripts (a inclure avec PyInstaller : --add-data "fonts;fonts").
+OCR : ajoutez une cle Gemini gratuite dans Parametres ; sinon Tesseract (avec la langue francaise) puis RapidOCR prennent le relais.
+tkinterdnd2 est optionnel (glisser-deposer).
